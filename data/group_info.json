@@ -1,0 +1,111 @@
+{
+  "Titara": {
+    "display": "Rosário (Titara)",
+    "titulo": "Agrupamento Rosário — Aterro Sanitário Titara",
+    "resumo": "A proposta identifica Rosário como referência para a regionalização, com aproveitamento da infraestrutura do Aterro Sanitário Titara. O agrupamento reúne 35 municípios e uma população estimada de 2.166.081 habitantes. O plano logístico prevê transporte direto para 9 municípios e uso de estações de transbordo para os demais 26.",
+    "fonte_secao": "3.1 — Agrupamento Rosário",
+    "geojson": {
+      "municipios": 35,
+      "direto": 9,
+      "transbordo": 26,
+      "populacao": 2166081
+    }
+  },
+  "Imperatriz": {
+    "display": "Imperatriz",
+    "titulo": "Agrupamento Imperatriz",
+    "resumo": "O agrupamento atende a porção sudoeste do Maranhão e reúne 25 municípios. O texto técnico informa população beneficiada de 801.749 habitantes e geração estimada de 569,71 toneladas por dia. A centralidade regional, a presença de serviços e as conexões pelas BR-010 e BR-230 sustentam a escolha de Imperatriz como município-polo.",
+    "observacao": "Há uma divergência entre as fontes: o texto menciona 9 municípios com transporte direto e 15 com transbordo, enquanto o GeoJSON de regionalização classifica 10 como transporte direto e 15 como transbordo. Os contadores do mapa seguem o GeoJSON.",
+    "fonte_secao": "3.2 — Agrupamento Imperatriz",
+    "geojson": {
+      "municipios": 25,
+      "direto": 10,
+      "transbordo": 15,
+      "populacao": 801749
+    }
+  },
+  "Codó": {
+    "display": "Codó",
+    "titulo": "Agrupamento Codó",
+    "resumo": "O agrupamento organiza municípios da porção centro-leste do Maranhão. Codó é indicado como referência regional por sua articulação institucional, infraestrutura urbana e conexão com as BR-316 e BR-226. A proposta prevê transporte direto para 4 municípios e transbordo para 15.",
+    "fonte_secao": "3.3 — Agrupamento Codó",
+    "geojson": {
+      "municipios": 19,
+      "direto": 4,
+      "transbordo": 15,
+      "populacao": 588986
+    }
+  },
+  "Colinas": {
+    "display": "Colinas",
+    "titulo": "Agrupamento Colinas",
+    "resumo": "O agrupamento forma um sistema regional de porte intermediário na região centro-leste do Maranhão. A posição geográfica de Colinas, sua infraestrutura urbana e as conexões pelas MA-270 e MA-034 favorecem a organização logística. A proposta contempla 7 municípios com transporte direto e 27 com transbordo.",
+    "fonte_secao": "3.4 — Agrupamento Colinas",
+    "geojson": {
+      "municipios": 34,
+      "direto": 7,
+      "transbordo": 27,
+      "populacao": 502250
+    }
+  },
+  "Pinheiro": {
+    "display": "Pinheiro",
+    "titulo": "Agrupamento Pinheiro",
+    "resumo": "O agrupamento foi delimitado para atender municípios da Baixada Maranhense e é o maior da proposta em quantidade de municípios. Pinheiro é indicado como polo por sua posição geográfica e função regional de serviços e atividades administrativas. A configuração contempla 12 municípios com transporte direto e 30 com transbordo.",
+    "fonte_secao": "3.5 — Agrupamento Pinheiro",
+    "geojson": {
+      "municipios": 42,
+      "direto": 12,
+      "transbordo": 30,
+      "populacao": 657096
+    }
+  },
+  "Santa Inês": {
+    "display": "Santa Inês",
+    "titulo": "Agrupamento Santa Inês",
+    "resumo": "O agrupamento atende municípios da porção centro-oeste do Maranhão. A escolha de Santa Inês está associada à sua posição na rede urbana, à concentração de serviços e à integração pelas BR-222 e BR-316. A proposta prevê 13 municípios com transporte direto e 22 com uso de estações de transbordo.",
+    "fonte_secao": "3.6 — Agrupamento Santa Inês",
+    "geojson": {
+      "municipios": 35,
+      "direto": 13,
+      "transbordo": 22,
+      "populacao": 663922
+    }
+  },
+  "Balsas": {
+    "display": "Balsas",
+    "titulo": "Agrupamento Balsas",
+    "resumo": "A proposta estrutura Balsas como polo regional do sul maranhense. A centralidade, a infraestrutura e a existência de aterro sanitário regional licenciado reforçam sua função no sistema. A logística prevê transporte direto para 4 municípios e estações de transbordo para 10.",
+    "fonte_secao": "3.7 — Agrupamento Balsas",
+    "geojson": {
+      "municipios": 14,
+      "direto": 4,
+      "transbordo": 10,
+      "populacao": 226571
+    }
+  },
+  "Buriti dos Lopes (PI)": {
+    "display": "Buriti dos Lopes (PI)",
+    "titulo": "Agrupamento Buriti dos Lopes (PI)",
+    "resumo": "A proposta considera o uso de aterro sanitário privado licenciado em Buriti dos Lopes, no Piauí, para atendimento de municípios maranhenses do Baixo Parnaíba. O arranjo contempla 10 municípios: 1 com destinação direta e 9 com apoio de estações de transbordo.",
+    "fonte_secao": "3.8 — Agrupamento Buriti dos Lopes",
+    "geojson": {
+      "municipios": 10,
+      "direto": 1,
+      "transbordo": 9,
+      "populacao": 177052
+    }
+  },
+  "Nazária (PI)": {
+    "display": "Nazária / Altos (PI)",
+    "titulo": "Agrupamento Nazária / Altos (PI)",
+    "resumo": "O arranjo interestadual incorpora Parnarama, Timon e Matões ao sistema de disposição final no Piauí. O texto estima atendimento de aproximadamente 220.917 habitantes e geração média de 164,05 toneladas por dia. Timon e Parnarama realizariam transporte direto, enquanto Matões utilizaria estação de transbordo.",
+    "fonte_secao": "3.9 — Agrupamento Nazária - PI",
+    "geojson": {
+      "municipios": 3,
+      "direto": 2,
+      "transbordo": 1,
+      "populacao": 220917
+    }
+  }
+}
